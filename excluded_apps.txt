@@ -1,3 +1,4 @@
+Keeper.KeeperDesktop
 Microsoft.Edge
 Microsoft.EdgeWebView2Runtime
 Microsoft.Office
